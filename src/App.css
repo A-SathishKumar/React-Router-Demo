@@ -1,0 +1,32 @@
+.coursecard{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 10px;
+}
+.mainmenu{
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.mainmenu button {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 10px 20px;
+  margin: 0 5px 10px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+  transition: background-color 0.5s, box-shadow 0.3s;
+}
+/* .mainmenu button.active {
+  background-color: lightblue;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+} */

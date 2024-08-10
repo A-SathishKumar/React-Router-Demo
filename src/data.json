@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "type": "Coding",
+      "title": "Zero to Hero Python Programming",
+      "image": "https://static.guvi.in/course-thumbnail/webps/python.webp"
+    },
+    {
+      "id": 2,
+      "type": "Coding",
+      "title": "C Programming",
+      "image": "https://static.guvi.in/course-thumbnail/webps/c-programming.webp"
+    },
+    {
+      "id": 3,
+      "type": "Full Stack Development",
+      "title": "All About Full Stack Development",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgZDgdwHtSsukvsfQTOIzGZDQWiRL5bkfO_g&s"
+    },
+    {
+      "id": 4,
+      "type": "Full Stack Development",
+      "title": "Javascript Zero to Hero",
+      "image": "https://static.guvi.in/course-thumbnail/webps/javascript.webp"
+    },
+    {
+      "id": 5,
+      "type": "Data Science",
+      "title": "Introduction to Data Engineering and Bigdata",
+      "image": "https://static.guvi.in/course-thumbnail/webps/bigdata.webp"
+    },
+    {
+      "id": 6,
+      "type": "Data Science",
+      "title": "Data Science with R",
+      "image": "https://static.guvi.in/course-thumbnail/webps/datasciencewithrarabic.webp"
+    }
+  ]
+  
